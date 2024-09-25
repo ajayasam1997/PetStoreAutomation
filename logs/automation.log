@@ -1,0 +1,7 @@
+09:29:53.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\MyProjects\petStoreAutomation\testng.xml
+
+09:36:06.539 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\petStoreAutomation\testng.xml"
+09:37:22.048 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\petStoreAutomation\testng.xml"
+09:38:16.842 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\petStoreAutomation\testng.xml"
+09:45:54.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\petStoreAutomation\testng.xml"
